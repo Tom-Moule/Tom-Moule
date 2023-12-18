@@ -19,3 +19,9 @@ I am currently completing AiCore's DevOps programme, and intend to combine the s
 - **Tools & Platforms**: Git, GitHub, Bash, Docker, Kubernetes, Terraform
 - **Mathematics**: Multivariate Calculus, Linear Algebra
 - **Statistics**: Hypothesis testing, Distributions, Bootstrapping
+
+## 🔨 My Top Projects
+- **[Titanic Kaggle Competition](https://github.com/Tom-Moule/Titanic-Kaggle-Competition)**: This project encompasses the data exploration/preparation, and model development/evaluation I undertook to submit predictions as part of the kaggle Titanic Competition
+- **[DIY Linear Regression](https://github.com/Tom-Moule/DIY-Linear-Regression)**: Here I developed my own Linear Regression models from scratch, and benchmarked them against scikit-learn. The best performing model uses Gradient Descent with Momentum, and has achieves accuracy scores similar to scikit-learn for a wide range of hyperparameters - and does so in a manageable timeframe
+- **[DIY K Means Clustering](https://github.com/Tom-Moule/DIY-K-Means-Clustering)**: Here I developed my own K Means Clustering model from scratch. My model achieves almost the same mean squared error as the scikit learn model.
+- **[Einstein's Riddle](https://github.com/Tom-Moule/Einsteins-Riddle)**: In this Project, I find a solution to Einstein's Riddle using Python.
