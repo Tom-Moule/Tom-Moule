@@ -2,14 +2,13 @@
 
 # Hi there, I'm Tom 👋
 
-### Data Science and Machine Learning Enthusiast
+### DevOps, Data Science and Machine Learning Enthusiast
 </div>
 
 ## 🌱 My Journey
 
-Having worked in the EdTech sector for over five years, I have gained a deep appreciation of the value that AI and data-centric technologies confer to their users. Fascinated to learn how these technologies work, I have developed skills in Python, R, SQL, data science methodologies, statistics, mathematics, and machine learning, in order to transition to more technical roles in AI.
+Having worked in the EdTech sector for over five years, I have gained a deep appreciation of the value that AI and data-centric technologies confer to their users. Fascinated to learn how these technologies work, and how they can be delivered in production, I have developed skills in Python, R, SQL, data science methodologies, statistics, mathematics, machine learning, and DevOps and Cloud platforms in order to transition to more technical roles in these areas
 
-I am currently completing AiCore's DevOps programme, and intend to combine the skills I am learning with my skills in Machine Learning to become effective at productionaizing machine learning systems.
 
 ## 💻 My Skills 
 
