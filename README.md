@@ -14,7 +14,7 @@ Having worked in the EdTech sector for over five years, I have gained a deep app
 
 - **Languages**: Python, R, SQL
 - **Databases**: PostgreSQL
-- **Cloud Computing**: AWS, Azure
+- **Cloud Computing**: Azure
 - **Tools & Platforms**: Git, GitHub, Bash, Docker, Kubernetes, Terraform
 - **Mathematics**: Multivariate Calculus, Linear Algebra
 - **Statistics**: Hypothesis testing, Distributions, Bootstrapping
