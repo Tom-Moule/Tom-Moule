@@ -20,6 +20,7 @@ Having worked in the EdTech sector for over five years, I have gained a deep app
 - **Statistics**: Hypothesis testing, Distributions, Bootstrapping
 
 ## 🔨 My Top Projects
+- **[Azure DevOps Pipeline](https://github.com/Tom-Moule/Web-App-DevOps-Project)**: In this project I containerise a pre-built python application; provision the infrastructure needed to run the application through an aks cluster; implement a rolling update strategy in the Kubernetes deployment; and design and implement an Azure DevOps build & release pipeline to automate application deployment to AKS.
 - **[Titanic Kaggle Competition](https://github.com/Tom-Moule/Titanic-Kaggle-Competition)**: This project encompasses the data exploration/preparation, and model development/evaluation I undertook to submit predictions as part of the kaggle Titanic Competition
 - **[DIY Linear Regression](https://github.com/Tom-Moule/DIY-Linear-Regression)**: Here I developed my own Linear Regression models from scratch, and benchmarked them against scikit-learn. The best performing model uses Gradient Descent with Momentum, and has achieves accuracy scores similar to scikit-learn for a wide range of hyperparameters - and does so in a manageable timeframe
 - **[DIY K Means Clustering](https://github.com/Tom-Moule/DIY-K-Means-Clustering)**: Here I developed my own K Means Clustering model from scratch. My model achieves almost the same mean squared error as the scikit learn model.
