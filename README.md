@@ -7,7 +7,7 @@
 
 ## 🌱 My Journey
 
-Having worked in the EdTech sector for over five years, I have gained a deep appreciation of the value that AI and data-centric technologies confer to their users. Fascinated to learn how these technologies work, and how they can be delivered in production, I have developed skills in Python, R, SQL, data science methodologies, statistics, mathematics, machine learning, and DevOps and Cloud platforms in order to transition to more technical roles in these areas.
+Having worked in the EdTech sector for over five years, I have gained a deep appreciation of the value that AI and data-centric technologies confer to their users. Fascinated to learn how these technologies work, and how they can be delivered in production, I have developed skills in Python, R, SQL, data science methodologies, statistics, mathematics, machine learning, and DevOps and Cloud platforms.
 
 
 ## 💻 My Skills 
